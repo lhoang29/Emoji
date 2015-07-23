@@ -757,37 +757,54 @@ public class AndroidEmoji {
 			codePoint == 0x1F604 ||
 			codePoint == 0x1F605 ||
 			codePoint == 0x1F606 ||
+            codePoint == 0x1F607 ||
+            codePoint == 0x1F608 ||
 			codePoint == 0x1F609 ||
 			codePoint == 0x1F60A ||
 			codePoint == 0x1F60B ||
 			codePoint == 0x1F60C ||
 			codePoint == 0x1F60D ||
+            codePoint == 0x1F60E ||
 			codePoint == 0x1F60F ||
+            codePoint == 0x1F610 ||
+            codePoint == 0x1F611 ||
 			codePoint == 0x1F612 ||
 			codePoint == 0x1F613 ||
 			codePoint == 0x1F614 ||
+            codePoint == 0x1F615 ||
 			codePoint == 0x1F616 ||
+			codePoint == 0x1F617 ||
 			codePoint == 0x1F618 ||
+			codePoint == 0x1F619 ||
 			codePoint == 0x1F61A ||
+			codePoint == 0x1F61B ||
 			codePoint == 0x1F61C ||
 			codePoint == 0x1F61D ||
 			codePoint == 0x1F61E ||
+			codePoint == 0x1F61F ||
 			codePoint == 0x1F620 ||
 			codePoint == 0x1F621 ||
 			codePoint == 0x1F622 ||
 			codePoint == 0x1F623 ||
 			codePoint == 0x1F624 ||
 			codePoint == 0x1F625 ||
+			codePoint == 0x1F626 ||
+			codePoint == 0x1F627 ||
 			codePoint == 0x1F628 ||
 			codePoint == 0x1F629 ||
 			codePoint == 0x1F62A ||
 			codePoint == 0x1F62B ||
+			codePoint == 0x1F62C ||
 			codePoint == 0x1F62D ||
+			codePoint == 0x1F62E ||
+			codePoint == 0x1F62F ||
 			codePoint == 0x1F630 ||
 			codePoint == 0x1F631 ||
 			codePoint == 0x1F632 ||
 			codePoint == 0x1F633 ||
+			codePoint == 0x1F634 ||
 			codePoint == 0x1F635 ||
+			codePoint == 0x1F636 ||
 			codePoint == 0x1F637 ||
 			codePoint == 0x1F638 ||
 			codePoint == 0x1F639 ||
@@ -810,23 +827,42 @@ public class AndroidEmoji {
 			codePoint == 0x1F64E ||
 			codePoint == 0x1F64F ||
 			codePoint == 0x1F680 ||
+			codePoint == 0x1F681 ||
+			codePoint == 0x1F682 ||
 			codePoint == 0x1F683 ||
 			codePoint == 0x1F684 ||
 			codePoint == 0x1F685 ||
+			codePoint == 0x1F686 ||
 			codePoint == 0x1F687 ||
+			codePoint == 0x1F688 ||
 			codePoint == 0x1F689 ||
+			codePoint == 0x1F68A ||
 			codePoint == 0x1F68C ||
+			codePoint == 0x1F68D ||
+			codePoint == 0x1F68E ||
 			codePoint == 0x1F68F ||
+			codePoint == 0x1F690 ||
 			codePoint == 0x1F691 ||
 			codePoint == 0x1F692 ||
 			codePoint == 0x1F693 ||
+			codePoint == 0x1F694 ||
 			codePoint == 0x1F695 ||
+			codePoint == 0x1F696 ||
 			codePoint == 0x1F697 ||
+			codePoint == 0x1F698 ||
 			codePoint == 0x1F699 ||
 			codePoint == 0x1F69A ||
+			codePoint == 0x1F69B ||
+			codePoint == 0x1F69C ||
+			codePoint == 0x1F69D ||
+			codePoint == 0x1F69E ||
+			codePoint == 0x1F69F ||
+			codePoint == 0x1F6A1 ||
 			codePoint == 0x1F6A2 ||
+			codePoint == 0x1F6A3 ||
 			codePoint == 0x1F6A4 ||
 			codePoint == 0x1F6A5 ||
+			codePoint == 0x1F6A6 ||
 			codePoint == 0x1F6A7 ||
 			codePoint == 0x1F6A8 ||
 			codePoint == 0x1F6A9 ||
@@ -834,15 +870,29 @@ public class AndroidEmoji {
 			codePoint == 0x1F6AB ||
 			codePoint == 0x1F6AC ||
 			codePoint == 0x1F6AD ||
+			codePoint == 0x1F6AE ||
+			codePoint == 0x1F6AF ||
+			codePoint == 0x1F6B0 ||
+			codePoint == 0x1F6B1 ||
 			codePoint == 0x1F6B2 ||
+			codePoint == 0x1F6B3 ||
+			codePoint == 0x1F6B4 ||
+			codePoint == 0x1F6B5 ||
 			codePoint == 0x1F6B6 ||
+			codePoint == 0x1F6B7 ||
+			codePoint == 0x1F6B8 ||
 			codePoint == 0x1F6B9 ||
 			codePoint == 0x1F6BA ||
 			codePoint == 0x1F6BB ||
 			codePoint == 0x1F6BC ||
 			codePoint == 0x1F6BD ||
 			codePoint == 0x1F6BE ||
-			codePoint == 0x1F6C0;
+			codePoint == 0x1F6C0 ||
+			codePoint == 0x1F6C1 ||
+			codePoint == 0x1F6C2 ||
+			codePoint == 0x1F6C3 ||
+			codePoint == 0x1F6C4 ||
+			codePoint == 0x1F6C5;
 	}
 
 	/**
